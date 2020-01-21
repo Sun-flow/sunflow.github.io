@@ -1,9 +1,27 @@
-h2{
+h2 a:link{
     font-size: 16px;
     color: #D3D3D3;
     text-decoration: none;
 }
 
-main{
+h2 a:hover{
+    font-size: 16px;
+    color: #D3D3D3;
+    text-decoration: underline;
+}
+
+.main{
     background-color: #FFFAF0;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    align-content: space-between;
+}
+
+.link{
+    flex-basis: 25vw;
+    flex-grow: 1;
 }
