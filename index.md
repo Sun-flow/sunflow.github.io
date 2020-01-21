@@ -1,7 +1,11 @@
 <head>
-    <title>Home Page</title>
+    <title>Jacie Mae Moninghoff</title>
 </head>
 
 <body>
-    <a href="TOC.html">TOC</a>
-</body> 
+
+    <h1>
+        <p>The Beginnings of my Personal Site</p>
+    </h1>
+
+</body>
