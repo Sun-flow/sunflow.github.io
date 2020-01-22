@@ -1,0 +1,21 @@
+h2 a:link{
+    font-size: 16px;
+    color: #2F4F4F;
+    text-decoration: none;
+}
+
+h2 a:visited{
+    font-size: 16px;
+    color: #2F4F4F;
+    text-decoration: none;
+}
+
+h2 a:hover{
+    font-size: 16px;
+    color: #A9A9A9;
+    text-decoration: underline;
+}
+
+.main{
+    background-color: #FFFAF0;
+}
